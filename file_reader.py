@@ -1,3 +1,8 @@
+'''There are two codes doing the same work. I did not understand document very clearly. I have tried best to my understanding.
+Thanks.
+'''
+
+
 '''def printer(data):
     for i in data:
         print(i,end=" ")
